@@ -1,4 +1,4 @@
-# Home Credit Risk Analysis
+# Home Loan Credit Risk Analysis
 ### Fair Credit Scoring Using Machine Learning & Power BI
 
 ---
